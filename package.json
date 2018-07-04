@@ -1,5 +1,5 @@
 {
-  "name": "wiki-plugin-grep",
+  "name": "@paul90/wiki-plugin-grep",
   "version": "1.0.1",
   "description": "Federated Wiki - Grep Plugin",
   "keywords": [
@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedwiki/wiki-plugin-grep.git"
+    "url": "https://github.com/paul90/wiki-plugin-grep-dat.git"
   },
   "bugs": {
-    "url": "https://github.com/fedwiki/wiki-plugin-grep/issues"
+    "url": "https://github.com/paul90/wiki-plugin-grep-dat/issues"
   },
   "engines": {
-    "node": ">=0.10"
+    "node": ">=8.11"
   }
 }
